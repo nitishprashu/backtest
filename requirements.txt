@@ -1,0 +1,6 @@
+numpy>=1.26
+pandas>=2.0
+duckdb>=1.0
+reportlab>=4.0
+# optional (Data tab -> repair one contract):
+# breeze-connect
